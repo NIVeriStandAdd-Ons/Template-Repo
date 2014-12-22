@@ -6,6 +6,7 @@
 *.so
 *.so.*
 *.dylib
+#*.dll		These are allowed because models are too easy to accidently ignore for demo repositories
 
 # Executables
 *.exe
